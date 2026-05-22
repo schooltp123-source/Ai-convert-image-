@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Image Prompt AI</string>
+    <string name="tab_image_to_prompt">រូបភាពទៅជាសំណួរ</string>
+    <string name="tab_prompt_to_image">សំណួរទៅជារូបភាព</string>
+    <string name="tab_history">ប្រវត្តិបម្លែង</string>
+    <string name="btn_select_image">ជ្រើសរើសរូបភាព</string>
+    <string name="btn_convert">បម្លែងជារូបភាព ឬសំណួរ</string>
+    <string name="btn_generate">បង្កើតរូបភាព</string>
+    <string name="btn_analyze">វិភាគរូបភាព</string>
+    <string name="label_enter_prompt">បញ្ចូលសំណួរពណ៌នា (លម្អិតកាន់តែល្អ)</string>
+    <string name="label_aspect_ratio">សមាមាត្ររូបភាព</string>
+    <string name="label_image_resolution">កម្រិតភាពច្បាស់ (ទំហំ)</string>
+    <string name="placeholder_prompt">សរសេរសំណួរនៅទីនេះ (ឧ. ភ្នំអង្គរវត្តនាពេលថ្ងៃលិច រចនាប័ទ្មគំនូរប្រេងច្បាស់ល្អ...)</string>
+    <string name="placeholder_description">អត្ថបទវិភាគ និងសំណួរណែនាំ លទ្ធផលនឹងបង្ហាញនៅទីនេះ...</string>
+    <string name="label_generating">កំពុងបង្កើតរូបភាពថ្មី សូមរង់ចាំ...</string>
+    <string name="label_analyzing">កំពុងវិភាគរូបភាព និងបង្កើតសំណួរពណ៌នា...</string>
+    <string name="btn_copy">ចម្លងអត្ថបទ</string>
+    <string name="btn_share">ចែករំលែក</string>
+    <string name="btn_download">រក្សាទុកក្នុងម៉ាស៊ីន</string>
+    <string name="error_no_api_key">រកមិនឃើញ API Key របស់ Gemini ទេ! សូមកំណត់វានៅក្នុង Secrets panel ក្នុង AI Studio។</string>
+    <string name="error_no_image">សូមជ្រើសរើសរូបភាពជាមុនសិន!</string>
+    <string name="error_no_prompt">សូមបញ្ចូលសំណួរពណ៌នាជាមុនសិន!</string>
+    <string name="error_occurred">មានកំហុសមួយបានកើតឡើង៖ %1$s</string>
+    <string name="toast_copied">បានចម្លងអត្ថបទជោគជ័យ!</string>
+    <string name="toast_saved">បានរក្សាទុករូបភាពទៅក្នុង Gallery ជោគជ័យ!</string>
+    <string name="toast_permission_denied">មិនអាចរក្សាទុករូបភាពបានទេ ដោយសារខ្វះសិទ្ធិអនុញ្ញាត។</string>
+</resources>
